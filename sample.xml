@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<container type="productObject" title="Quadratic Functions" one-cms-id="17e6496d-92e5-4595-baaa-acdbbb35f665" data-uuid="17e6496d92e54595baaaacdbbb35f665">
+	<container type="sequenceBundle" title="Quadratic Functions" one-cms-id="3b4cb334-bedc-4063-aea6-c4d7bf6e28b7" data-uuid="3b4cb334bedc4063aea6c4d7bf6e28b7">
+		<container type="compositeContentObject" title="Interactive Unit Opener: Quadratic Functions" one-cms-id="0cef6356-4d00-4371-adfc-c81817f4f586" data-uuid="592b1ae0786b416f97e722401b41e967" isPartOf="epub://3b4cb334bedc4063aea6c4d7bf6e28b7" />
+		<container type="sequenceBundle" title="Graphing Quadratic Functions" one-cms-id="388ed08d-6320-4434-b815-7b204a36e347" data-uuid="388ed08d63204434b8157b204a36e347" isPartOf="epub://3b4cb334bedc4063aea6c4d7bf6e28b7">
+			<container type="compositeContentObject" title="Interactive Module Opener: Graphing Quadratic Functions" one-cms-id="6dc63785-6638-43ac-8605-27587341c2f6" data-uuid="cc158c1ad3174b0da5ae4d94a64c3529" isPartOf="epub://388ed08d63204434b8157b204a36e347" />
+			<container type="sequenceBundle" title="Understanding Quadratic Functions" one-cms-id="401d1dcd-66f9-4fc1-9e11-08faaa8e80b8" data-uuid="401d1dcd66f94fc19e1108faaa8e80b8" isPartOf="epub://388ed08d63204434b8157b204a36e347">
+				<container type="compositeContentObject" title="Engage" one-cms-id="9a183cef-3022-410c-b803-781432341641" data-uuid="ef25110e19874265b83b0c2ac88dd777" isPartOf="epub://401d1dcd66f94fc19e1108faaa8e80b8" />
+				<container type="compositeContentObject" title="Explore: Understanding the Parent Quadratic Function" one-cms-id="50f66e5e-2af8-40de-ba67-b36d3a317dcc" data-uuid="20ca16ea0a4b43cfb8504e12f9551201" isPartOf="epub://401d1dcd66f94fc19e1108faaa8e80b8" />
+				<container type="compositeContentObject" title="Explain: Graphing g(x) = ax&#xB2; when a &gt; 0" one-cms-id="0be913c8-199a-4fce-93ec-4b277f3f88fd" data-uuid="e726b6c0db6f47b2a113e2746c5b65e0" isPartOf="epub://401d1dcd66f94fc19e1108faaa8e80b8" />
+				<container type="compositeContentObject" title="Explain: Graphing g(x) = ax&#xB2; when a &lt; 0" one-cms-id="9e812a96-3824-4dd7-8c38-e7832add72c7" data-uuid="bcc894b741224a1d9a90c52da1078423" isPartOf="epub://401d1dcd66f94fc19e1108faaa8e80b8" />
+				<container type="compositeContentObject" title="Explain: Writing a Quadratic Function Given a Graph" one-cms-id="bd3af0cd-b319-4e1f-a6db-7b45a40b61c3" data-uuid="04f5dd8a88af403cbc81fb53706871dc" isPartOf="epub://401d1dcd66f94fc19e1108faaa8e80b8" />
+				<container type="compositeContentObject" title="Explain: Modeling with a Quadratic Function" one-cms-id="a451fa4f-f4fb-488a-8926-4cff3cd38cea" data-uuid="22d285a1b69f414cb6709599716d154c" isPartOf="epub://401d1dcd66f94fc19e1108faaa8e80b8" />
+				<container type="compositeContentObject" title="Elaborate" one-cms-id="20fd1f98-012f-4c18-ac5f-58ea6cb32403" data-uuid="b7262249695a40c1966fd6d98abfdb37" isPartOf="epub://401d1dcd66f94fc19e1108faaa8e80b8" />
+			</container>
+			<container type="sequenceBundle" title="Transforming Quadratic Functions" one-cms-id="132def09-471e-4581-94d9-14dc4869ef5a" data-uuid="132def09471e458194d914dc4869ef5a" isPartOf="epub://388ed08d63204434b8157b204a36e347">
+				<container type="compositeContentObject" title="Engage" one-cms-id="53785f44-d9c4-4c3d-bd09-c4f114c17fb2" data-uuid="27c66d68dde949fbbf33989c47b25b8a" isPartOf="epub://132def09471e458194d914dc4869ef5a" />
+				<container type="compositeContentObject" title="Explore: Understanding Quadratic Functions of the Form g(x) = a(x - h)&#xB2; + k" one-cms-id="38893c16-effb-46e5-84e4-069db817791c" data-uuid="d0e1b273d79a4ae8a19aa9836d115738" isPartOf="epub://132def09471e458194d914dc4869ef5a" />
+				<container type="compositeContentObject" title="Explain: Understanding Vertical Translations" one-cms-id="fa69dd6c-6995-4984-b8b5-78155585a003" data-uuid="72e5abada5d14ce48ccc9289e41533d2" isPartOf="epub://132def09471e458194d914dc4869ef5a" />
+				<container type="compositeContentObject" title="Explain: Understanding Horizontal Translations" one-cms-id="eae5aa74-8b3b-4a7a-a3b7-a5975c39ddcb" data-uuid="a4f5c2c4cb5a4d8c9ee891443f180662" isPartOf="epub://132def09471e458194d914dc4869ef5a" />
+				<container type="compositeContentObject" title="Explain: Graphing g(x) = a(x - h)&#xB2; + k" one-cms-id="f48b58c2-997a-435b-a2be-312150c30718" data-uuid="44345e48b3c74cbfb6e075b5562702a2" isPartOf="epub://132def09471e458194d914dc4869ef5a" />
+				<container type="compositeContentObject" title="Elaborate" one-cms-id="323cf28d-9523-44c7-9c9e-324f1d936285" data-uuid="0018515f2ee4419981aeaf2b44523bee" isPartOf="epub://132def09471e458194d914dc4869ef5a" />
+			</container>
+			<container type="sequenceBundle" title="Interpreting Vertex Form and Standard Form" one-cms-id="4e91a13e-fee3-4de6-aa71-441d2ab39142" data-uuid="4e91a13efee34de6aa71441d2ab39142" isPartOf="epub://388ed08d63204434b8157b204a36e347">
+				<container type="compositeContentObject" title="Engage" one-cms-id="b673a002-65f8-4a20-adb0-72832f0adf73" data-uuid="2094d883c8ab473abcc859b1c1049f13" isPartOf="epub://4e91a13efee34de6aa71441d2ab39142" />
+				<container type="compositeContentObject" title="Explore: Identifying Quadratic Functions from Their Graphs" one-cms-id="6e111870-a624-49cc-a7a7-7c81fe1ebb3f" data-uuid="6837074d9690416d9ff6ecde2d676b17" isPartOf="epub://4e91a13efee34de6aa71441d2ab39142" />
+				<container type="compositeContentObject" title="Explain: Identifying Quadratic Functions in Standard Form" one-cms-id="0944139b-c69a-4e7d-93dd-ad85b2948f78" data-uuid="dba8967eaeaf4735a2e705ef3d86043c" isPartOf="epub://4e91a13efee34de6aa71441d2ab39142" />
+				<container type="compositeContentObject" title="Explain: Changing from Vertex Form to Standard Form" one-cms-id="515d595d-70f7-45b3-8766-52340eb86080" data-uuid="ea1c736a51a141cdbb0bdefa591def50" isPartOf="epub://4e91a13efee34de6aa71441d2ab39142" />
+				<container type="compositeContentObject" title="Explain: Writing a Quadratic Function Given a Table of Values" one-cms-id="d40f1aad-1e98-44c0-b194-83af00dbefaa" data-uuid="d87cc41c876b416686a07db4b3234835" isPartOf="epub://4e91a13efee34de6aa71441d2ab39142" />
+				<container type="compositeContentObject" title="Explain: Writing a Quadratic Function Given a Graph" one-cms-id="6e91e027-aaa1-48e8-9143-e4e34a77d616" data-uuid="0f6f90a67e36415f818a7ac954feb429" isPartOf="epub://4e91a13efee34de6aa71441d2ab39142" />
+				<container type="compositeContentObject" title="Elaborate" one-cms-id="734de84d-4135-4c2f-8214-b1fbcf881b77" data-uuid="30081ca2eefe417e9277f22a580cca1d" isPartOf="epub://4e91a13efee34de6aa71441d2ab39142" />
+			</container>
+		</container>
+		<container type="sequenceBundle" title="Connecting Intercepts, Zeros, and Factors" one-cms-id="9ec823be-ebe1-473e-871d-b4e996442a25" data-uuid="9ec823beebe1473e871db4e996442a25" isPartOf="epub://3b4cb334bedc4063aea6c4d7bf6e28b7">
+			<container type="compositeContentObject" title="Interactive Module Opener: Connecting Intercepts, Zeros, and Factors" one-cms-id="26d11c35-81e1-46e6-9715-2590c580e9c7" data-uuid="835cf9300e85449d935cf13cddf57098" isPartOf="epub://9ec823beebe1473e871db4e996442a25" />
+			<container type="sequenceBundle" title="Connecting Intercepts and Zeros" one-cms-id="215ff807-7749-470f-ba43-ca34e6b331d6" data-uuid="215ff8077749470fba43ca34e6b331d6" isPartOf="epub://9ec823beebe1473e871db4e996442a25">
+				<container type="compositeContentObject" title="Engage" one-cms-id="f4200c8b-1ab2-437b-a97f-6aff057502ff" data-uuid="0a28d22af25a4277946f4b57f841416b" isPartOf="epub://215ff8077749470fba43ca34e6b331d6" />
+				<container type="compositeContentObject" title="Explore: Graphing Quadratic Functions in Standard Form" one-cms-id="638ffeb3-97dd-4179-8a5d-dabd38282c89" data-uuid="0401962bd64549e091297a4d616ab9f2" isPartOf="epub://215ff8077749470fba43ca34e6b331d6" />
+				<container type="compositeContentObject" title="Explain: Using Zeros to Solve Quadratic Equations Graphically" one-cms-id="32ee71a5-2cd9-4410-ae7a-31cf36270cdb" data-uuid="23d6e0fce8ce4289beb47abfb91803ce" isPartOf="epub://215ff8077749470fba43ca34e6b331d6" />
+				<container type="compositeContentObject" title="Explain: Using Points of Intersection to Solve Quadratic Equations Graphically" one-cms-id="3feb91eb-2b3d-447e-a02c-6b5a82a9f9f9" data-uuid="a1bfe3bc619b495c9df48d1907ef36f1" isPartOf="epub://215ff8077749470fba43ca34e6b331d6" />
+				<container type="compositeContentObject" title="Explain: Modeling a Real-World Problem" one-cms-id="e9135e81-8ad0-40b0-aebf-543eacf7f031" data-uuid="fef8b35b84074c75b861b1513d972130" isPartOf="epub://215ff8077749470fba43ca34e6b331d6" />
+				<container type="compositeContentObject" title="Explain: Interpreting a Quadratic Model" one-cms-id="ba543e50-5222-4827-bcd7-6ae55b6c2d93" data-uuid="90d93449bce248d48be1dc680248b590" isPartOf="epub://215ff8077749470fba43ca34e6b331d6" />
+				<container type="compositeContentObject" title="Elaborate" one-cms-id="a9498ea3-c9bf-4b3f-b59f-1485daf5975d" data-uuid="769802e491a144e48a2ada3131250291" isPartOf="epub://215ff8077749470fba43ca34e6b331d6" />
+			</container>
+			<container type="sequenceBundle" title="Connecting Intercepts and Linear Factors" one-cms-id="80ab54e4-93a3-4744-a174-a18ebd0ae89a" data-uuid="80ab54e493a34744a174a18ebd0ae89a" isPartOf="epub://9ec823beebe1473e871db4e996442a25">
+				<container type="compositeContentObject" title="Engage" one-cms-id="4452cba7-577f-41de-8365-d6894ba84c06" data-uuid="ccd8f31e5d55497e8d7566c1ff772eda" isPartOf="epub://80ab54e493a34744a174a18ebd0ae89a" />
+				<container type="compositeContentObject" title="Explore: Connecting Factors and x&#x2013;Intercepts" one-cms-id="7c9a4942-e6ac-405d-bead-c6d9e9eac749" data-uuid="983098f751cc47ac97fac4d0f6a3e36f" isPartOf="epub://80ab54e493a34744a174a18ebd0ae89a" />
+				<container type="compositeContentObject" title="Explain: Rewriting from Factored Form to Standard Form" one-cms-id="bffcd482-d6b4-4b46-aab4-f590cb0d90bd" data-uuid="1408cd1107f74be1a960e45be4a779eb" isPartOf="epub://80ab54e493a34744a174a18ebd0ae89a" />
+				<container type="compositeContentObject" title="Explain: Connecting Factors and Zeros" one-cms-id="429120d8-92d3-43f6-b9c1-53cc370642fe" data-uuid="7e6fa82893024208ac767e7af7bc7ff9" isPartOf="epub://80ab54e493a34744a174a18ebd0ae89a" />
+				<container type="compositeContentObject" title="Explain: Writing Quadratic Functions Given x-Intercepts" one-cms-id="be15e1cb-5927-400e-9994-94dd2111751e" data-uuid="5f670c1d52654c719480633f94025758" isPartOf="epub://80ab54e493a34744a174a18ebd0ae89a" />
+				<container type="compositeContentObject" title="Elaborate" one-cms-id="38d830bb-864c-4591-9da3-0f6a69cb849c" data-uuid="f6fb659c1a7e41e8bd55d47ac06e9f3e" isPartOf="epub://80ab54e493a34744a174a18ebd0ae89a" />
+			</container>
+			<container type="sequenceBundle" title="Applying the Zero Product Property to Solve Equations" one-cms-id="3d5f038a-a542-4141-ae9e-17c3103a890b" data-uuid="3d5f038aa5424141ae9e17c3103a890b" isPartOf="epub://9ec823beebe1473e871db4e996442a25">
+				<container type="compositeContentObject" title="Engage" one-cms-id="71e73598-e18a-4bc0-9bd8-1ceb3b396caf" data-uuid="22c8267bdbb24fd093fff6feb90bcc0a" isPartOf="epub://3d5f038aa5424141ae9e17c3103a890b" />
+				<container type="compositeContentObject" title="Explore: Understanding the Zero Product Property" one-cms-id="35876471-76f6-479f-8c71-f7181c6796f4" data-uuid="88139ed239804ee4bf86c3f50e42eb42" isPartOf="epub://3d5f038aa5424141ae9e17c3103a890b" />
+				<container type="compositeContentObject" title="Explain: Applying the Zero Product Property to Functions" one-cms-id="959c0feb-044e-4dd6-b56c-7e79ba82ccbc" data-uuid="edfc48313f0e401382aa4434d5a14b79" isPartOf="epub://3d5f038aa5424141ae9e17c3103a890b" />
+				<container type="compositeContentObject" title="Explain: Solving Quadratic Equations Using the Distributive Property and the Zero Product Property" one-cms-id="d2764268-4514-4d27-accb-f032879cff78" data-uuid="fffe943cb35a4ece84bc0a5ffb4af01c" isPartOf="epub://3d5f038aa5424141ae9e17c3103a890b" />
+				<container type="compositeContentObject" title="Explain: Solving Real-World Problems Using the Zero Product Property" one-cms-id="27f8726e-0b70-405a-8be7-c657f18e109a" data-uuid="e019e082df434c0e97628a96573197b6" isPartOf="epub://3d5f038aa5424141ae9e17c3103a890b" />
+				<container type="compositeContentObject" title="Elaborate" one-cms-id="8e868c47-59bc-4de2-83c0-8eeba41ab6ff" data-uuid="717480b0053d4a2da227dd00f78c7c45" isPartOf="epub://3d5f038aa5424141ae9e17c3103a890b" />
+			</container>
+		</container>
+	</container>
+</container>
